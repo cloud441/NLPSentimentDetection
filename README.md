@@ -11,7 +11,7 @@ The project is done in Python on Jupyter Notebook and final benchmark is saved i
 
 To re-run the Notebook, please follow this tutorial:
 
-```bash=
+```sh
 # If you are on Linux distro:
 virtualenv NLP_env
 source NLP_env/bin/activate # select the specific activate according to your shell.
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 
 # Run Jupyter Notebook:
-# If youu are on Linux distro:
+# If you are on Linux distro:
 jupyter notebook & # the '&' run the command in background to let you use the console.
 ```
 
