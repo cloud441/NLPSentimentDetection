@@ -26,6 +26,8 @@ pip install -r requirements.txt
 jupyter notebook & # the '&' run the command in background to let you use the console.
 ```
 
+Be careful you can have 1 hour to run each notebook so if you want to run them again make sure you have time.
+
 ## -- Architecture of code --
 
 * The 'doc/' directory contains the final benchmark report.
