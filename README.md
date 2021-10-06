@@ -41,4 +41,7 @@ Be careful you can have 1 hour to run each notebook so if you want to run them a
 
 ## -- Final results of benchmark --
 
-please insert a screen of results (FIXME)
+![](https://i.imgur.com/2eUKkgW.png)
+
+
+![](https://i.imgur.com/nfbe0Pz.png)
