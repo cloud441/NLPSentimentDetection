@@ -17,7 +17,7 @@ virtualenv NLP_env
 source NLP_env/bin/activate # select the specific activate according to your shell.
 # else, create a Python virtual environment with your IDE, and go inside.
 
-# Install all python packages:
+# Install all python modules:
 pip install -r requirements.txt
 
 
@@ -25,6 +25,17 @@ pip install -r requirements.txt
 # If you are on Linux distro:
 jupyter notebook & # the '&' run the command in background to let you use the console.
 ```
+
+## -- Architecture of code --
+
+* The 'doc/' directory contains the final benchmark report.
+
+* The 'NaiveBayes/' directory contains notebook of the naive bayes model.
+
+* The 'LogisticRegression/' directory contains notebook of the logistic regression model.
+
+* The 'FasText/' directory contains notebook of models from FastText Text Classification module.
+
 
 ## -- Final results of benchmark --
 
